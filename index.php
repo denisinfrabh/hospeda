@@ -16,7 +16,7 @@
             flex-direction: column;
         }
         .hero-section {
-            background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('banner-hospeda.webp');
+            background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('bg-hero.webp');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
@@ -77,13 +77,13 @@
         .hero-section .card {
             background-color: rgba(255, 255, 255, 0.95);
         }
-        /* Estilo do botão de suporte */
         .btn-support {
             background-color: #007bff;
             color: #ffffff;
             border-radius: 20px;
             padding: 8px 20px;
             font-weight: bold;
+            margin-left: 10px;
         }
         .btn-support:hover {
             background-color: #0056b3;
