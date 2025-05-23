@@ -130,7 +130,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <h1>Hospedagem de Sites Rápida e Confiável e Bonita!!!</h1>
+                    <h1>Hospedagem de Sites Rápida e Confiável</h1>
                     <p>
                         Tenha seu site online com a VergaHost! Oferecemos hospedagem compartilhada de alta performance, 
                         suporte 24/7 e segurança garantida. Escolha o plano ideal para sua necessidade e comece hoje mesmo. 
