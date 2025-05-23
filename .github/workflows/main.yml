@@ -18,3 +18,4 @@ jobs:
         username: ${{ secrets.ftp_user }}
         password: ${{ secrets.ftp_password }}
         server-dir: ${{ secrets.ftp_dir }}
+        # Make sure you have set the 'ftp_dir' secret in your repository's GitHub Actions secrets.
